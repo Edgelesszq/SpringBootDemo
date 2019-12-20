@@ -1,0 +1,38 @@
+{
+  "groups": [
+    {
+      "name": "person",
+      "type": "com.demo.config.Person",
+      "sourceType": "com.demo.config.Person"
+    }
+  ],
+  "properties": [
+    {
+      "name": "person.age",
+      "type": "java.lang.Integer",
+      "sourceType": "com.demo.config.Person",
+      "defaultValue": 0
+    },
+    {
+      "name": "person.dog",
+      "type": "java.lang.String",
+      "sourceType": "com.demo.config.Person"
+    },
+    {
+      "name": "person.map",
+      "type": "java.util.Map<java.lang.String,java.lang.Object>",
+      "sourceType": "com.demo.config.Person"
+    },
+    {
+      "name": "person.name",
+      "type": "java.lang.String",
+      "sourceType": "com.demo.config.Person"
+    },
+    {
+      "name": "person.pet",
+      "type": "java.util.List<java.lang.String>",
+      "sourceType": "com.demo.config.Person"
+    }
+  ],
+  "hints": []
+}
