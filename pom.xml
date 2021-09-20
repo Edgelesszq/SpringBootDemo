@@ -11,7 +11,7 @@
         <mybatis-spring-boot>1.2.0</mybatis-spring-boot>
         <mysql-connector>8.0.13</mysql-connector>
         <druid-ver>1.1.9</druid-ver>
-        <shiro-ver>1.4.2</shiro-ver>
+        <shiro-ver>1.8.0</shiro-ver>
     </properties>
     <parent>
         <groupId>org.springframework.boot</groupId>
